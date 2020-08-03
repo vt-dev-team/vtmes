@@ -6,8 +6,8 @@
 
 1. 安装必备软件
 
-  1. [git](https://git-scm.com/)
-  2. [nodejs](https://nodejs.org/)
+  - [git](https://git-scm.com/)
+  - [nodejs](https://nodejs.org/)
 
 2. 安装依赖
 
@@ -30,14 +30,14 @@ node server.js
 
 # Vegetable Message System
 
-语言：[简体中文](#vegetable消息系统) | English
+Languages：[简体中文](#vegetable消息系统) | English
 
 ## Installation
 
 1. Install prerequisite software
 
-  1. [git](https://git-scm.com/)
-  2. [nodejs](https://nodejs.org/)
+  - [git](https://git-scm.com/)
+  - [nodejs](https://nodejs.org/)
 
 2. Install dependencies
 
