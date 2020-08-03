@@ -1,5 +1,7 @@
 # Vegetable消息系统
 
+语言：简体中文 | [#vegetable-message-system](English)
+
 ## 安装
 
 1. 安装必备软件
@@ -27,6 +29,8 @@ node server.js
 ```
 
 # Vegetable Message System
+
+语言：[#vegetable消息系统](简体中文) | English
 
 ## Installation
 
