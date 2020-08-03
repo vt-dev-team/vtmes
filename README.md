@@ -1,6 +1,6 @@
 # Vegetable消息系统
 
-语言：简体中文 | [#vegetable-message-system](English)
+语言：简体中文 | [English](#vegetable-message-system)
 
 ## 安装
 
@@ -30,7 +30,7 @@ node server.js
 
 # Vegetable Message System
 
-语言：[#vegetable消息系统](简体中文) | English
+语言：[简体中文](#vegetable消息系统) | English
 
 ## Installation
 
